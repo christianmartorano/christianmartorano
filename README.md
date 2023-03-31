@@ -27,4 +27,6 @@
 <a href="https://wa.me/5514991991105"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </div>
 
-![Snake animation commits](https://github.com/christianmartorano/christianmartorano/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block"><br>
+ <img align="center" src="https://github.com/christianmartorano/christianmartorano/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</div>
